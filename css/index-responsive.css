@@ -1,0 +1,1041 @@
+@media(min-width:992px) and (max-width:1199px) {}
+
+/* lg */
+
+@media(min-width:768px) and (max-width:991px) {
+    .banner-text {
+        position: relative !important;
+        left: 0;
+    }
+    .banner-text p {
+        position: relative;
+        left: 0;
+    }
+    .banner-text h1 {
+        font-size: 50px;
+        line-height: 72px;
+        position: relative;
+        left: 0;
+
+    }
+    .banner-text h2 {
+        font-size: 48px !important;
+        line-height: 20px !important;
+        position: relative;
+        left: 0;
+    }
+
+    .banner-text .banner-alink {
+        position: relative;
+        left: 0;
+        margin-left: 0 !important;
+    }
+
+    .stky {
+        height: auto;
+    }
+    .navbar-toggler-icon {
+        background: #ffffff;
+        margin-left: 270px;
+        transition: all .3s;
+    }
+
+    #home-banner {
+        width: 768px;
+        height: 430px;
+    }
+    .banner-alink a {
+        font-size: 15px;
+        width: 128px;
+        height: 36px;
+        margin-left: 15px;
+        margin-top: 36px;
+    }
+    .about-img img {
+        width: 312px !important;
+        position: relative;
+        top: 60px;
+    }
+
+    #home-about {
+        padding: 35px 0;
+    }
+    .about-text h2 {
+        margin-bottom: 18px;
+    }
+    .about-text p {
+        line-height: 22px;
+    }
+    .about-icon h3 {
+        margin-top: 40px;
+    }
+    .about-icon .about-cont {
+        margin-right: 10px;
+        width: 46px;
+        height: 46px;
+        margin-top: 17px;
+    }
+    .service-text img {
+        margin: 45px 0 18px 0;
+        width: 63px;
+    }
+    .service-text h3 a {
+        font-size: 18px;
+    }
+    .service-text p {
+        margin: 15px 0 32px 0;
+    }
+    .port img {
+        width: 223px !important;
+        height: 260px !important;
+    }
+    .card {
+        width: 223px !important;
+    }
+    .portflo .overly .overly_inner-on {
+        top: 55%;
+    }
+    .portfolio-table th {
+        margin-bottom: 40px;
+        font-size: 30px;
+    }
+    .portfolio-table tr td a {
+        font-size: 18px;
+        margin-bottom: 22px;
+    }
+    .portflo-btn a {
+        padding: 10px 13px;
+        font-size: 15px;
+        margin-top: 8px;
+    }
+    #home-pricing {
+        padding: 50px 0;
+    }
+    .panel-body img {
+        width: 60px !important;
+    }
+    .panel {
+        border-radius: 0 !important;
+        width: 225px;
+    }
+    .panel-heading h4 {
+        font-size: 16px;
+        padding: 11px 0;
+    }
+    .panel-body h1 {
+        font-size: 35px;
+        padding-bottom: 10px;
+        margin: 0 25px 10px 25px;
+    }
+    .panel-body p {
+        font-size: 13px;
+        padding-bottom: 3px;
+    }
+    .panel-footer a {
+        width: 114px;
+        height: 32px;
+        line-height: 31px;
+        font-size: 12px;
+        margin-top: 30px;
+    }
+    #home-blog {
+        padding: 50px 0;
+    }
+    .nk,
+    .ns {
+        margin-top: 22px;
+    }
+    .card-body-list {
+        height: 292px;
+    }
+    .card-img-top img {
+        width: 223px !important;
+        height: 292px !important;
+    }
+    .home-grid,
+    .home-grid .card-img-top img {
+        width: 370px !important;
+    }
+    .blog-btn a {
+        padding: 8px 8px;
+        font-size: 14px;
+        margin: 30px 0 0px 0;
+    }
+    #contact-form {
+        padding: 50px 0 30px 0;
+    }
+    #contact-form .contact-left p {
+        font-size: 14px;
+        padding-bottom: 9px;
+    }
+    #contact-form .contact-left p i {
+        padding-right: 8px;
+    }
+    .contact-icon h2 {
+        padding-top: 25px;
+    }
+    #contact-form .contact-left h2 {
+        font-size: 25px;
+        margin-top: 11px;
+    }
+    .contact-icon .icon-cont {
+        margin-top: 20px;
+    }
+    form {
+        padding: 15px;
+    }
+    form h2 {
+        text-align: center;
+    }
+    form input {
+        width: 100%;
+    }
+    .in-btn {
+        right: 30px;
+        bottom: -3px;
+    }
+    .down-last p {
+        font-size: 12px !important;
+    }
+    .navbar {
+        width: 764px !important;
+    }
+    .all-nav {
+        width: 77px !important;
+    }
+    .navbar-toggler-icon {
+        margin-left: 335px !important;
+    }
+    .all-nav {
+        width: 171px !important;
+    }
+    .menu li a {
+        margin: 0 0 0px 30px !important;
+        display: inline-block;
+    }
+    .menu {
+        background: black !important;
+    }
+
+    .stck {
+        height: 70px !important;
+        display: block;
+    }
+    .banner-alink a {
+        position: relative;
+        right: 460px;
+    }
+
+    .stky {
+        height: auto;
+    }
+
+
+
+}
+
+/* md */
+
+@media(min-width:576) and (max-width:767px) {
+    tky {
+        height: auto;
+    }
+    banner-text {
+        position: relative !important;
+        left: 0;
+    }
+    .banner-text p {
+        position: relative;
+        left: 0;
+    }
+    .banner-text h1 {
+        font-size: 50px;
+        line-height: 72px;
+        position: relative;
+        left: 0;
+
+    }
+    .banner-text h2 {
+        font-size: 48px !important;
+        line-height: 20px !important;
+        position: relative;
+        left: 0;
+    }
+
+    .banner-text .banner-alink {
+        position: relative;
+        left: 0;
+        margin-left: 0 !important;
+    }
+
+    .stky {
+        height: auto;
+    }
+    .navbar-toggler-icon {
+        background: #ffffff;
+        margin-left: 270px;
+        transition: all .3s;
+    }
+
+    .banner-alink a {
+        font-size: 15px;
+        width: 128px;
+        height: 36px;
+        margin-left: 15px;
+        margin-top: 36px;
+    }
+    .about-img img {
+        width: 312px !important;
+        position: relative;
+        top: 60px;
+    }
+
+    #home-about {
+        padding: 35px 0;
+    }
+    .about-text h2 {
+        margin-bottom: 18px;
+    }
+    .about-text p {
+        line-height: 22px;
+    }
+    .about-icon h3 {
+        margin-top: 40px;
+    }
+    .about-icon .about-cont {
+        margin-right: 10px;
+        width: 46px;
+        height: 46px;
+        margin-top: 17px;
+    }
+    .service-text img {
+        margin: 45px 0 18px 0;
+        width: 63px;
+    }
+    .service-text h3 a {
+        font-size: 18px;
+    }
+    .service-text p {
+        margin: 15px 0 32px 0;
+    }
+    .port img {
+        width: 223px !important;
+        height: 260px !important;
+    }
+    .card {
+        width: 223px !important;
+    }
+    .portflo .overly .overly_inner-on {
+        top: 55%;
+    }
+    .portfolio-table th {
+        margin-bottom: 40px;
+        font-size: 30px;
+    }
+    .portfolio-table tr td a {
+        font-size: 18px;
+        margin-bottom: 22px;
+    }
+    .portflo-btn a {
+        padding: 10px 13px;
+        font-size: 15px;
+        margin-top: 8px;
+    }
+    #home-pricing {
+        padding: 50px 0;
+    }
+    .panel-body img {
+        width: 60px !important;
+    }
+    .panel {
+        border-radius: 0 !important;
+        width: 225px;
+    }
+    .panel-heading h4 {
+        font-size: 16px;
+        padding: 11px 0;
+    }
+    .panel-body h1 {
+        font-size: 35px;
+        padding-bottom: 10px;
+        margin: 0 25px 10px 25px;
+    }
+    .panel-body p {
+        font-size: 13px;
+        padding-bottom: 3px;
+    }
+    .panel-footer a {
+        width: 114px;
+        height: 32px;
+        line-height: 31px;
+        font-size: 12px;
+        margin-top: 30px;
+    }
+    #home-blog {
+        padding: 50px 0;
+    }
+    .nk,
+    .ns {
+        margin-top: 22px;
+    }
+    .card-body-list {
+        height: 292px;
+    }
+    .card-img-top img {
+        width: 223px !important;
+        height: 292px !important;
+    }
+    .home-grid,
+    .home-grid .card-img-top img {
+        width: 370px !important;
+    }
+    .blog-btn a {
+        padding: 8px 8px;
+        font-size: 14px;
+        margin: 30px 0 0px 0;
+    }
+
+    .navbar {
+        width: 300px !important;
+    }
+    .menu li a {
+        margin: 0 0 0px 30px !important;
+        display: inline-block;
+    }
+    .menu {
+        background: black !important;
+    }
+
+    .stck {
+        height: 70px !important;
+        display: block;
+    }
+    .banner-alink a {
+        position: relative;
+        right: 460px;
+    }
+    /***********************************************************************************/
+    #home-banner {
+        width: 100% !important;
+        height: 264px !important;
+    }
+    .navbar-brand img {
+        width: 100px !important;
+    }
+    #my-nav {
+        width: 300px !important;
+    }
+    .navbar-toggler-icon {
+        margin-left: 0px !important;
+    }
+
+    .all-nav {
+        width: 170px !important;
+    }
+    .card-img-top img {
+        width: 293px !important;
+        height: 150px !important;
+
+    }
+    .lkj {
+        margin-top: 250px !important;
+    }
+    .card-body-list {
+        position: absolute !important;
+        left: 0 !important;
+        top: 100% !important;
+        width: 293px;
+        padding: 7px !important;
+        height: 252px;
+        z-index: 1;
+    }
+    .card {
+        border: none;
+        margin-top: 40px;
+        width: 292px !important;
+    }
+    .wer {
+        margin-top: 250px !important;
+    }
+    .home-grid,
+    .home-grid .card-img-top img {
+        width: 290px !important;
+    }
+    .home-grid-bd {
+        width: 290px !important;
+    }
+    #contact-form {
+        padding: 40px 0 30px 0px;
+        text-align: center !important;
+    }
+    #contact-form .contact-left h2 {
+        margin-bottom: 18px;
+        font-size: 30px;
+    }
+    #contact-form .contact-left p {
+        padding-bottom: 2px;
+    }
+    .contact-icon .icon-cont {
+        width: 36px;
+        height: 36px;
+        margin-top: 17px;
+        margin-bottom: 30px;
+
+    }
+    .icon-cont {
+        margin: 0 auto;
+    }
+
+    form {
+        padding: 10px;
+    }
+    input {
+        width: 100%;
+    }
+    .form-mes {
+        height: 112px;
+    }
+    .in-btn {
+        right: 26px;
+        bottom: -9px;
+        width: 60px;
+        height: 47px;
+    }
+    .down-last p {
+        font-size: 10px;
+        height: 33px;
+        line-height: 31px;
+    }
+    .about-img img {
+        width: 210px !important;
+        position: relative;
+        top: 60px;
+    }
+    #my-nav {
+        width: 319px !important;
+    }
+    .menu li a {
+        padding: 0px 10px 0 10px !important;
+        font-size: 16px !important;
+        line-height: 35px !important;
+    }
+    .banner-text {
+        top: 50%;
+    }
+    .banner-text p {
+        font-size: 16px;
+    }
+    .banner-text h1 {
+        font-size: 16px;
+        line-height: 33px;
+    }
+    .banner-text h2 {
+        font-size: 16px !important;
+        line-height: 0px !important;
+    }
+    #home-about {
+        padding: 0;
+    }
+    .about-text h2 {
+        font-size: 25px;
+        margin: 62px 0px 35px 0;
+    }
+    .about-text p {
+        font-size: 12px;
+        line-height: 19px;
+    }
+    .about-icon h3 {
+        font-size: 22px;
+    }
+    #home-service h2 {
+        font-size: 28px;
+    }
+    .portflo .overly .overly_inner-on {
+        top: 33%;
+    }
+    .portflo {
+        width: 292px !important;
+    }
+    .portfolio-table {
+        margin-top: 50px;
+    }
+    .panel {
+        margin-bottom: 15px;
+        width: 290px !important;
+    }
+    .komao i {
+        font-size: 13px !important;
+        padding-right: 2px !important;
+    }
+    .komao span {
+        font-size: 13px !important;
+        margin-right: 6px !important;
+    }
+
+
+    .card-body h5 {
+        line-height: 22px;
+        margin-top: 0px;
+        font-size: 14px;
+    }
+    .card-body p {
+        font-size: 13px !important;
+        line-height: 18px !important;
+        margin-top: 7px !important;
+    }
+    .btnk,
+    .btns {
+        font-size: 14px;
+    }
+
+    .btns i {
+        padding-left: 5px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .nk,
+    .ns {
+        margin-top: 19px;
+        padding: 0px;
+    }
+    .btnk i {
+        padding-right: 5px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .home-grid-bd {
+        padding: 10px !important;
+    }
+    #pricing h2 {
+        font-size: 26px;
+        margin-bottom: 25px;
+    }
+    #home-pricing {
+        padding: 30px 0;
+    }
+    #home-blog {
+        padding: 25px 0;
+    }
+    .testi_header h3 {
+        font-size: 26px;
+        margin-bottom: 30px;
+    }
+    .home-grid-bd {
+        height: 250px !important;
+    }
+    .banner-alink a {
+        font-size: 12px;
+        width: 91px;
+        height: 31px;
+        margin-left: 15px;
+        margin-top: 36px;
+        line-height: 30px;
+        right: 90px;
+    }
+
+
+}
+
+/* sm */
+
+@media(max-width:575px) {
+    
+    .stky {
+        height: auto;
+    }
+    banner-text {
+        position: relative !important;
+        left: 0;
+    }
+    .banner-text p {
+        position: relative;
+        left: 0;
+    }
+    .banner-text h1 {
+        font-size: 50px;
+        line-height: 72px;
+        position: relative;
+        left: 0;
+
+    }
+    .banner-text h2 {
+        font-size: 48px !important;
+        line-height: 20px !important;
+        position: relative;
+        left: 0;
+    }
+
+    .banner-text .banner-alink {
+        position: relative;
+        left: 0;
+        margin-left: 0 !important;
+    }
+
+    .stky {
+        height: auto;
+    }
+    .navbar-toggler-icon {
+        background: #ffffff;
+        margin-left: 270px;
+        transition: all .3s;
+    }
+
+    .banner-alink a {
+        font-size: 15px;
+        width: 128px;
+        height: 36px;
+        margin-left: 15px;
+        margin-top: 36px;
+    }
+    .about-img img {
+        width: 312px !important;
+        position: relative;
+        top: 60px;
+    }
+
+    #home-about {
+        padding: 35px 0;
+    }
+    .about-text h2 {
+        margin-bottom: 18px;
+    }
+    .about-text p {
+        line-height: 22px;
+    }
+    .about-icon h3 {
+        margin-top: 40px;
+    }
+    .about-icon .about-cont {
+        margin-right: 10px;
+        width: 46px;
+        height: 46px;
+        margin-top: 17px;
+    }
+    .service-text img {
+        margin: 45px 0 18px 0;
+        width: 63px;
+    }
+    .service-text h3 a {
+        font-size: 18px;
+    }
+    .service-text p {
+        margin: 15px 0 32px 0;
+    }
+    .port img {
+        width: 223px !important;
+        height: 260px !important;
+    }
+    .card {
+        width: 223px !important;
+    }
+    .portflo .overly .overly_inner-on {
+        top: 55%;
+    }
+    .portfolio-table th {
+        margin-bottom: 40px;
+        font-size: 30px;
+    }
+    .portfolio-table tr td a {
+        font-size: 18px;
+        margin-bottom: 22px;
+    }
+    .portflo-btn a {
+        padding: 10px 13px;
+        font-size: 15px;
+        margin-top: 8px;
+    }
+    #home-pricing {
+        padding: 50px 0;
+    }
+    .panel-body img {
+        width: 60px !important;
+    }
+    .panel {
+        border-radius: 0 !important;
+        width: 225px;
+    }
+    .panel-heading h4 {
+        font-size: 16px;
+        padding: 11px 0;
+    }
+    .panel-body h1 {
+        font-size: 35px;
+        padding-bottom: 10px;
+        margin: 0 25px 10px 25px;
+    }
+    .panel-body p {
+        font-size: 13px;
+        padding-bottom: 3px;
+    }
+    .panel-footer a {
+        width: 114px;
+        height: 32px;
+        line-height: 31px;
+        font-size: 12px;
+        margin-top: 30px;
+    }
+    #home-blog {
+        padding: 50px 0;
+    }
+    .nk,
+    .ns {
+        margin-top: 22px;
+    }
+    .card-body-list {
+        height: 292px;
+    }
+    .card-img-top img {
+        width: 223px !important;
+        height: 292px !important;
+    }
+    .home-grid,
+    .home-grid .card-img-top img {
+        width: 370px !important;
+    }
+    .blog-btn a {
+        padding: 8px 8px;
+        font-size: 14px;
+        margin: 30px 0 0px 0;
+    }
+
+    .navbar {
+        width: 300px !important;
+    }
+    .menu li a {
+        margin: 0 0 0px 30px !important;
+        display: inline-block;
+    }
+    .menu {
+        background: black !important;
+    }
+
+    .stck {
+        height: 70px !important;
+        display: block;
+    }
+    .banner-alink a {
+        position: relative;
+        right: 460px;
+    }
+    /***********************************************************************************/
+    #home-banner {
+        width: 100% !important;
+        height: 264px !important;
+    }
+    .navbar-brand img {
+        width: 100px !important;
+    }
+    #my-nav {
+        width: 300px !important;
+    }
+    .navbar-toggler-icon {
+        margin-left: 0px !important;
+    }
+
+    .all-nav {
+        width: 170px !important;
+    }
+    .card-img-top img {
+        width: 293px !important;
+        height: 150px !important;
+
+    }
+    .lkj {
+        margin-top: 250px !important;
+    }
+    .card-body-list {
+        position: absolute !important;
+        left: 0 !important;
+        top: 100% !important;
+        width: 293px;
+        padding: 7px !important;
+        height: 252px;
+        z-index: 1;
+    }
+    .card {
+        border: none;
+        margin-top: 40px;
+        width: 292px !important;
+    }
+    .wer {
+        margin-top: 250px !important;
+    }
+    .home-grid,
+    .home-grid .card-img-top img {
+        width: 290px !important;
+    }
+    .home-grid-bd {
+        width: 290px !important;
+    }
+    #contact-form {
+        padding: 40px 0 30px 0px;
+        text-align: center !important;
+    }
+    #contact-form .contact-left h2 {
+        margin-bottom: 18px;
+        font-size: 30px;
+    }
+    #contact-form .contact-left p {
+        padding-bottom: 2px;
+    }
+    .contact-icon .icon-cont {
+        width: 36px;
+        height: 36px;
+        margin-top: 17px;
+        margin-bottom: 30px;
+
+    }
+    .icon-cont {
+        margin: 0 auto;
+    }
+
+    form {
+        padding: 10px;
+    }
+    input {
+        width: 100%;
+    }
+    .form-mes {
+        height: 112px;
+    }
+    .in-btn {
+        right: 26px;
+        bottom: -9px;
+        width: 60px;
+        height: 47px;
+    }
+    .down-last p {
+        font-size: 10px;
+        height: 33px;
+        line-height: 31px;
+    }
+    .about-img img {
+        width: 210px !important;
+        position: relative;
+        top: 60px;
+    }
+    #my-nav {
+        width: 319px !important;
+    }
+    .menu li a {
+        padding: 0px 10px 0 10px !important;
+        font-size: 16px !important;
+        line-height: 35px !important;
+    }
+    .banner-text {
+        top: 50%;
+    }
+    .banner-text p {
+        font-size: 16px;
+    }
+    .banner-text h1 {
+        font-size: 16px;
+        line-height: 33px;
+    }
+    .banner-text h2 {
+        font-size: 16px !important;
+        line-height: 0px !important;
+    }
+    #home-about {
+        padding: 0;
+    }
+    .about-text h2 {
+        font-size: 25px;
+        margin: 62px 0px 35px 0;
+    }
+    .about-text p {
+        font-size: 12px;
+        line-height: 19px;
+    }
+    .about-icon h3 {
+        font-size: 22px;
+    }
+    #home-service h2 {
+        font-size: 28px;
+    }
+    .portflo .overly .overly_inner-on {
+        top: 33%;
+    }
+    .portflo {
+        width: 292px !important;
+    }
+    .portfolio-table {
+        margin-top: 50px;
+    }
+    .panel {
+        margin-bottom: 15px;
+        width: 290px !important;
+    }
+    .komao i {
+        font-size: 13px !important;
+        padding-right: 2px !important;
+    }
+    .komao span {
+        font-size: 13px !important;
+        margin-right: 6px !important;
+    }
+
+
+    .card-body h5 {
+        line-height: 22px;
+        margin-top: 0px;
+        font-size: 14px;
+    }
+    .card-body p {
+        font-size: 13px !important;
+        line-height: 18px !important;
+        margin-top: 7px !important;
+    }
+    .btnk,
+    .btns {
+        font-size: 14px;
+    }
+
+    .btns i {
+        padding-left: 5px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .nk,
+    .ns {
+        margin-top: 19px;
+        padding: 0px;
+    }
+    .btnk i {
+        padding-right: 5px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .home-grid-bd {
+        padding: 10px !important;
+    }
+    #pricing h2 {
+        font-size: 26px;
+        margin-bottom: 25px;
+    }
+    #home-pricing {
+        padding: 30px 0;
+    }
+    #home-blog {
+        padding: 25px 0;
+    }
+    .testi_header h3 {
+        font-size: 26px;
+        margin-bottom: 30px;
+    }
+    .home-grid-bd {
+        height: 250px !important;
+    }
+    .banner-alink a {
+        font-size: 12px;
+        width: 91px;
+        height: 31px;
+        margin-left: 15px;
+        margin-top: 36px;
+        line-height: 30px;
+        right: 90px;
+    }
+
+}
+
+/* esm */

@@ -1,0 +1,440 @@
+@media(min-width:992px) and (max-width:1199px){
+	
+	/* blog grid view start */
+	.card-img-top a img{
+			width: 317px;
+		}
+		.card {
+			width: 317px;
+			margin-top: 45px;
+		}
+		.card-body{
+			width: 317px;
+		}
+		.card-body {
+			padding: 5px;
+		}
+		.p-lg-0 {
+			padding-left: 0px !important;
+			padding-right: 15px !important;
+		}
+		.chapao{
+			padding-right: 0px !important;
+		}
+		
+		.pd {
+			margin-left: 11px;
+		}
+		.card-body h5 {
+			line-height: 28px;
+			font-size: 18px;
+		}
+		.contact-icon,
+		.contact-left,
+		.about-end-left{
+			margin-left: 15px;
+		}
+		form input{
+			width: 49.2%;
+		}
+		.card-img-top a img{
+			width: 317px;
+		}
+		.card {
+			width: 319px;
+		}
+		.card-body{
+			width: 317px;
+		}
+		
+		.blog-end-left{
+			left: 15px;
+			position: relative;
+		}
+		.blog-end-right{
+			right: 15px;
+			position: relative;
+		}
+		
+		
+		
+} /* lg */
+
+
+@media(min-width:768px) and (max-width:991px){
+	
+	/* blog grid view start */
+	
+	.card-img-top a img{
+			width: 370px;
+		}
+		.card {
+			width: 370px;
+			margin-top: 45px;
+		}
+		.card-body{
+			width: 370px;
+			padding: 17px;
+		}
+		.nth_maj {
+			position: inherit;
+			left: 12px;
+		}
+		.nth {
+			left: 0; 
+			position: inherit;
+		}
+		#contact-form {
+			padding: 60px 0 30px 0;
+		}
+		.about-end-left ol{
+			margin-bottom: 0;
+		}
+		.about-end-left ol li {
+			margin-top: 40px;
+			margin-bottom: 40px;
+		}
+		.about-end-right {
+			margin-top: 65px;
+		}
+		#contact-form {
+			padding: 50px 0 30px 0;
+		}
+		#contact-form .contact-left p {
+			font-size: 15px;
+		}
+		#contact-form .contact-left p i {
+			padding-right: 8px;
+		}
+		.contact-icon h2 {
+			padding-top: 25px;
+		}
+		#contact-form .contact-left h2 {
+			font-size: 25px;
+			margin-top: 15px;
+		}
+		.contact-icon .icon-cont {
+			margin-top: 20px;
+		}
+		form {
+			padding: 15px;
+		}
+		form h2	{
+			text-align: center;
+		}
+		form input {
+			width: 100%;
+		}
+		.in-btn {
+			right: 15px;
+			bottom: -3px;
+		}
+		.down-last p{
+			font-size: 12px;
+		}
+		.no-text {
+			height: 85px;
+		}
+.about-end-left{
+			margin-left: 15px;
+		}
+} /* md */
+
+
+
+@media(min-width:576px) and (max-width:767px){
+	
+	/* blog grid view start */
+	
+	.card-img-top a img{
+			width: 278px;
+		}
+		.card {
+			width: 278px;
+			margin-top: 38px;
+
+		}
+		.card-body{
+			width: 278px;
+		}
+		
+		.nth_maj {
+			position: inherit;
+			left: 8px;
+		}
+		
+		.card-body {
+			padding: 5px;
+		}
+		
+		.nth {
+			left: 1px; 
+			position: inherit;
+		}
+		.card-body h5 {
+	line-height: 24px;
+	margin-top: 13px;
+	font-size: 17px;
+	text-align: left;
+}
+.card-body p {
+	font-size: 14px;
+	line-height: 22px;
+	text-align: left !important;
+}
+.btnk,
+.btns {
+	font-size: 15px;
+}
+
+.btns i {
+	padding-left: 5px;
+	font-size: 12px;
+	font-weight: 400;
+}
+	.btnk i{
+		padding-right: 5px;
+	font-size: 12px;
+	font-weight: 400;
+	}
+	.blog-top {
+	padding: 20px 0;
+}
+.no-text {
+	height: 60px;
+}
+
+		.about-end-left ol li {
+			margin-top: 30px;
+			margin-bottom: 35px;
+		}
+	
+	.about-end-right {
+	margin-top: 60px;
+}
+.about-end-right a{
+	font-size: 15px;
+}
+#contact-form .contact-left h2 {
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+#contact-form {
+	padding: 45px 0 30px 0;
+}
+#contact-form .contact-left p {
+	padding-bottom: 3px;
+}
+.contact-icon h2 {
+	padding-top: 30px;
+}
+.contact-icon .icon-cont {
+	margin-top: 18px;
+}
+	form{
+		margin-top: 20px;
+	}
+	input{
+		width: 100%;
+	}
+	
+	.about-end-left{
+			margin-left: 15px;
+		}
+	
+} /* sm */
+
+@media(max-width:575px){
+	
+	/*/ blog grid view start*/
+	
+	.blog-end-right p a,
+	.blog-end-left p{
+		font-size: 12px !important;
+	}
+	.blog-end-left {
+		margin-top: 3px;
+	}
+
+	.blog-end-right p{
+		text-align: right !important;
+	}
+	.blog-top {
+	padding: 6px 0;
+}
+	.no-text {
+		height: 50px;
+	}
+	.card-img-top img{
+		width: 300px !important;
+		height: 130px;
+			margin-top: 20px;
+	}
+		.card-body{
+			width: 300px;
+			padding: 5px;
+			height: 270px;
+		}
+		.card {
+			width: 280px;
+			border: none; 
+			margin: auto;
+		}
+		.card-img-top {
+	 position: relative; 
+}
+        .card-img-top:hover .overly{
+            -webkit-transform: scale(0);
+            -moz-transform: scale(0);
+            -o-transform: scale(0);
+        }
+	.card-img-top .overly .overly_inner {
+	position: inherit;
+	transform: scale(0);
+}
+
+		
+		.nth_maj {
+			position: inherit;
+		}
+		
+		.nth {
+			position: inherit;
+		}
+		
+		.card-body {
+			padding: 5px;
+			padding-top: 10px;
+		}
+		.card{
+			margin: auto;
+		}
+		
+		.p-lg-0 {
+			padding-left: 0px !important;
+			padding-right: 20px !important;
+		}
+		.chapao{
+			padding-left:15px !important;
+		}
+		.card-body h5 {
+	line-height: 24px;
+	margin-top: 13px;
+	font-size: 17px;
+	text-align: left;
+}
+.card-body p {
+	font-size: 14px;
+	line-height: 22px;
+	text-align: left !important;
+}
+.btnk,
+.btns {
+	font-size: 15px;
+}
+
+.btns i {
+	padding-left: 5px;
+	font-size: 12px;
+	font-weight: 400;
+}
+	.btnk i{
+		padding-right: 5px;
+	font-size: 12px;
+	font-weight: 400;
+	}
+		.card-body .text-center{
+			text-align: left !important;
+		}
+	.card-body .text-center i{
+		font-size: 12px;
+	}
+	.pd {
+	margin-left: 8px;
+}
+.about-end-left ol li {
+	margin-top: 20px;
+	 margin-bottom: 0px;
+}	
+.about-end-left ol li a {
+	padding: 8px;
+	font-size: 13px;
+}
+.about-end-left ol{
+	padding-left: 15px;
+}
+.about-end-right {
+	margin-top: 40px;
+}
+.about-end-right a{
+	margin-bottom: 20px;
+}
+#contact-form {
+	padding: 40px 0 30px 15px;
+	text-align: center !important;
+}
+#contact-form .contact-left h2 {
+	margin-bottom: 18px;
+	font-size: 30px;
+}
+#contact-form .contact-left p {
+	padding-bottom: 2px;
+}
+.contact-icon .icon-cont {
+	width: 36px;
+	height: 36px;
+	margin-top: 17px;
+	margin-bottom: 30px;
+	
+}
+.icon-cont {
+	margin: 0 auto;
+}
+	
+form {
+	padding: 10px;
+}
+input {
+	width: 100%;
+}
+.form-mes {
+	height: 112px;
+}
+.in-btn {
+	right: 10px;
+	bottom: -9px;
+	width: 60px;
+	height: 47px;
+}
+.down-last p {
+	font-size: 10px;
+	height: 33px;
+	line-height: 31px;
+}
+.about-end-right a{
+	position: relative;
+	right: 48%;
+	transform: translateX(50%);	
+	margin-right: 0px;
+}
+.about-end-right i {
+	padding-left: 0px;
+}
+.about-end-left {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	left: 50 !important;
+	transform: translateX(-50% !important);
+}
+	.mid{
+		position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+	}
+	
+	.contact-icon h2{
+		text-align: left !important;
+	}
+	
+} /* Esm */
